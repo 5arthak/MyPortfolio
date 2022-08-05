@@ -941,6 +941,7 @@ footer {
 
 footer .soc {
   float: right;
+  margin-bottom: 20px;
 }
 
 footer .soc a {
